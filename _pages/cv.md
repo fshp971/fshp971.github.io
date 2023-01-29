@@ -13,7 +13,7 @@ redirect_from:
 Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
 
 
-## Education
+# Education
 ---
 * **MPhil, The University of Sydney**
   * Major in Computer Science
@@ -25,7 +25,7 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
   * Sep. 2015 - Jun. 2019
 
 
-## Work experience
+# Work experience
 ---
 * **Algorithm Engineer (Full-time), JD.com, Inc.**
   * Trustworthy AI Group @ JD Explore Academy
@@ -36,7 +36,7 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
   * Oct. 2019 - Oct. 2020
 
   
-## Skills
+# Skills
 ---
 * C/C++, TeX, Markdown, Python, PyTorch, JAX, Linux, Arch Linux
 

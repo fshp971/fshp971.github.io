@@ -13,13 +13,13 @@ I received MPhil in computer science from the [University of Sydney](https://www
 
 
 My research lies in trustworthy AI, especially the security and privacy aspects of machine learning models.
-I am now interested in using mathematical tools to design practical algorithms for adversarial training and privacy-preserving machine learning.
+I am now interested in using mathematical tools to design practical algorithms for adversarial and privacy-preserving machine learning.
 <!--adversarially robust and privacy-preserving machine learning algorithms.-->
 
-Email: shaopengfu15 [at] gmail [dot] com
+<!--Email: shaopengfu15 [at] gmail.com-->
 
 
-**I am currently looking for a PhD position. If you are interested, please do not hesitate to drop me an email!**
+**I am currently looking for a PhD position. If you are interested, please do not hesitate to drop me an email ([shaopengfu15@gmail.com](mailto:shaopengfu15@gmail.com))!**
 <!--drop me an email (shaopengfu15 [at] gmail [dot] com)!**-->
 
 
@@ -33,7 +33,7 @@ Email: shaopengfu15 [at] gmail [dot] com
 
 
 
-# Publications
+# Publications <small><span style="font-weight:normal;">[</span></small>[<small>Google Scholar</small>](https://scholar.google.com/citations?user=i7cWm4gAAAAJ)<small><span style="font-weight:normal;">]</span></small>
 ---
 
 \* indicates co-first authors.
@@ -80,6 +80,6 @@ Email: shaopengfu15 [at] gmail [dot] com
 - International Collegiate Programming Contest (ICPC) \\
   - The ICPC Asia-East Continent Final Xi'an Site, Silver Medal, 2018
   - The ICPC Asia Regional Contest Qingdao Site, Silver Medal, 2018
-  - The ICPC Asia Regional Contest Shenyang Site, Gold Medal (**Rank 6/186**), 2018
+  - The ICPC Asia Regional Contest Shenyang Site, **Gold Medal ([Rank: 6/186](https://icpc.global/regionals/finder/shenyang-2018/standings))**, 2018
   - The ACM-ICPC Asia Regional Contest Xi'an Site, Silver Medal, 2017
-- China National Scholarship, 2017 & 2018
+- National Scholarship, Ministry of Education of P.R.China, 2017 & 2018
