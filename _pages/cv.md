@@ -15,30 +15,30 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
 
 # Education
 ---
-* **MPhil, The University of Sydney**
-  * Major in Computer Science
-  * Oct. 2019 - Jan. 2021
-  * Thesis Title: Bayesian Inference Forgetting
+- **MPhil, The University of Sydney**
+  - Major in Computer Science
+  - Thesis Title: Bayesian Inference Forgetting
+  - Oct. 2019 - Jan. 2021
 
-* **BSc, South China University of Technology**
-  * Major in Mathematics
-  * Sep. 2015 - Jun. 2019
+- **BSc, South China University of Technology**
+  - Major in Mathematics
+  - Sep. 2015 - Jun. 2019
 
 
 # Work experience
 ---
-* **Algorithm Engineer (Full-time), JD.com, Inc.**
-  * Trustworthy AI Group @ JD Explore Academy
-  * Mar. 2021 - Jul. 2022
+- **Algorithm Engineer (Full-time), JD.com, Inc.**
+  - Trustworthy AI Group @ JD Explore Academy
+  - Mar. 2021 - Jul. 2022
 
-* **Research Assistant, The University of Sydney**
-  * Working on trustworthy AI
-  * Oct. 2019 - Oct. 2020
+- **Research Assistant, The University of Sydney**
+  - Working on trustworthy AI
+  - Oct. 2019 - Oct. 2020
 
   
 # Skills
 ---
-* C/C++, TeX, Markdown, Python, PyTorch, JAX, Linux, Arch Linux
+- C/C++, TeX, Markdown, Python, PyTorch, JAX, Linux, Arch Linux
 
 
 <!--

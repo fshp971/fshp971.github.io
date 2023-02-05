@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 I was an algorithm engineer in the trustworthy AI research group at JD Explore Academy, [JD.com, Inc](https://corporate.jd.com/).
-I received MPhil in computer science from the [University of Sydney](https://www.sydney.edu.au/), supervised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), and BSc in mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), supervised by Prof. [Chuhua Xian](https://chuhuaxian.github.io/).
+I received MPhil in Computer Science from [The University of Sydney](https://www.sydney.edu.au/), supervised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), and BSc in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), supervised by Prof. [Chuhua Xian](https://chuhuaxian.github.io/).
 
 
-My research lies in trustworthy AI, especially the security and privacy aspects of machine learning models.
-I am now interested in using mathematical tools to design practical algorithms for adversarial and privacy-preserving machine learning.
+My research lies in trustworthy AI, especially the security and privacy aspects of machine learning.
+I am interested in using mathematical principles to identify and mitigate security and privacy risks in real-world machine learning systems.
 <!--adversarially robust and privacy-preserving machine learning algorithms.-->
 
 <!--Email: shaopengfu15 [at] gmail.com-->
@@ -26,7 +26,7 @@ I am now interested in using mathematical tools to design practical algorithms f
 
 # News
 ---
-- 12/2022: I accepted the invitation to serve as a reviewer for ICML 2023.
+- 12/2022: I accepted the invitation to serve as a reviewer for [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference).
 - 07/2022: I accepted the invitation to serve as a reviewer for [ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference).
 - 03/2022: I accepted the invitation to serve as a reviewer for [NeurIPS 2022](https://openreview.net/group?id=NeurIPS.cc/2022/Conference).
 - 01/2022: Two papers are accepted by [ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference).
@@ -82,4 +82,4 @@ I am now interested in using mathematical tools to design practical algorithms f
   - The ICPC Asia Regional Contest Qingdao Site, Silver Medal, 2018
   - The ICPC Asia Regional Contest Shenyang Site, **Gold Medal ([Rank: 6/186](https://icpc.global/regionals/finder/shenyang-2018/standings))**, 2018
   - The ACM-ICPC Asia Regional Contest Xi'an Site, Silver Medal, 2017
-- National Scholarship, Ministry of Education of P.R.China, 2017 & 2018
+- National Scholarship, Ministry of Education of P.R. China, 2017 & 2018
