@@ -26,6 +26,7 @@ I am interested in using mathematical principles to identify and mitigate securi
 
 # News
 ---
+- 03/2023: I accepted the invitation to serve as a reviewer for [NeurIPS 2023](https://openreview.net/group?id=NeurIPS.cc/2023/Conference).
 - 12/2022: I accepted the invitation to serve as a reviewer for [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference).
 - 07/2022: I accepted the invitation to serve as a reviewer for [ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference).
 - 03/2022: I accepted the invitation to serve as a reviewer for [NeurIPS 2022](https://openreview.net/group?id=NeurIPS.cc/2022/Conference).
