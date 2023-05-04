@@ -27,6 +27,10 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
 
 # Work experience
 ---
+- **Remote Research Intern, King Abdullah University of Science and Technology**
+  - Provable Responsible AI and Data Analytics (PRADA) Lab
+  - May 2023 - Present
+
 - **Algorithm Engineer (Full-time), JD.com, Inc.**
   - Trustworthy AI Group @ JD Explore Academy
   - Mar. 2021 - Jul. 2022
