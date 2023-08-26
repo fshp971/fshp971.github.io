@@ -15,31 +15,37 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
 
 # Education
 ---
-- **MPhil, The University of Sydney**
-  - Major in Computer Science
+- **The University of Sydney**
+  - Ph.D. Student in Computer Science
+  - Aug. 2023 - Present
+
+- **The University of Sydney**
+  - MPhil in Computer Science
   - Thesis Title: Bayesian Inference Forgetting
   - Oct. 2019 - Jan. 2021
 
-- **BSc, South China University of Technology**
-  - Major in Mathematics
+- **South China University of Technology**
+  - B.Sc in Mathematics
   - Sep. 2015 - Jun. 2019
 
 
-# Work experience
+# Experience
 ---
-- **Remote Research Intern, King Abdullah University of Science and Technology**
+- **King Abdullah University of Science and Technology**
   - Provable Responsible AI and Data Analytics (PRADA) Lab
-  - May 2023 - Present
+  - Research Intern
+  - May 2023 - Jul. 2023
 
-- **Algorithm Engineer (Full-time), JD.com, Inc.**
-  - Trustworthy AI Group @ JD Explore Academy
+- **JD.com, Inc.**
+  - Trustworthy AI Group @JD Explore Academy
+  - Algorithm Engineer (**Full-time**)
   - Mar. 2021 - Jul. 2022
 
-- **Research Assistant, The University of Sydney**
-  - Working on trustworthy AI
+- **The University of Sydney**
+  - Research Assistant
   - Oct. 2019 - Oct. 2020
 
-  
+
 # Skills
 ---
 - C/C++, TeX, Markdown, Python, PyTorch, JAX, Linux, Arch Linux

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shaopeng Fu (傅少鹏)"
 title_separator          : "-"
 name                     : &name "Shaopeng Fu"
-description              : &description "Remote research intern @ KAUST."
+description              : &description "Ph.D. student @KAUST."
 url                      : https://fshp971.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fshp971.github.io"
@@ -83,12 +83,13 @@ analytics:
 author:
   name             : "Shaopeng Fu"
   avatar           : "profile.png"
-  bio              : "Interested in trustworthy AI. Research intern @ KAUST."
+  bio              : "Interested in trustworthy AI. Ph.D. student @KAUST."
   location         : "Guangzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=i7cWm4gAAAAJ"
-  email            : "shaopengfu15@gmail.com"
+  # email            : "shaopengfu15@gmail.com"
+  email            : "shaopeng.fu@kaust.edu.sa"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

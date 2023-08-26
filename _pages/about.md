@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a remote research intern in the [Provable Responsible AI and Data Analytics (PRADA) Lab](http://www.pradalab.org/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), under the supervision of Prof. [Di Wang](https://shao3wangdi.github.io/).
+<!--I am currently a remote research intern in the [Provable Responsible AI and Data Analytics (PRADA) Lab](http://www.pradalab.org/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), under the supervision of Prof. [Di Wang](https://shao3wangdi.github.io/).-->
+
+I am a Ph.D. student in the [Provable Responsible AI and Data Analytics (PRADA) Lab](http://www.pradalab.org/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
 
 Before that, I was an algorithm engineer in the trustworthy AI research group at JD Explore Academy, [JD.com, Inc](https://corporate.jd.com/).
-I received MPhil in Computer Science from [The University of Sydney](https://www.sydney.edu.au/), supervised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), and BSc in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), supervised by Prof. [Chuhua Xian](https://chuhuaxian.github.io/).
+I received MPhil in Computer Science from [The University of Sydney](https://www.sydney.edu.au/), advised by [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), and B.Sc in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), advised by [Prof. Chuhua Xian](https://chuhuaxian.github.io/).
 
 
 My research lies in trustworthy AI, especially the security and privacy aspects of machine learning.
@@ -25,19 +27,22 @@ I am interested in using mathematical principles to identify and mitigate securi
 [shaopengfu15@gmail.com](mailto:shaopengfu15@gmail.com)
 
 
-~~**I am currently looking for a PhD position. If you are interested, please do not hesitate to drop me an email ([shaopengfu15@gmail.com](mailto:shaopengfu15@gmail.com))!**~~
+<!--~~**I am currently looking for a PhD position. If you are interested, please do not hesitate to drop me an email ([shaopengfu15@gmail.com](mailto:shaopengfu15@gmail.com))!**~~-->
 <!--drop me an email (shaopengfu15 [at] gmail [dot] com)!**-->
 
 
 
 # News
 ---
-- 05/2023: I started a remote research internship in the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), advised by Prof. [Di Wang](https://shao3wangdi.github.io/).
+- 08/2023: I started my Ph.D. journey at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/)!
+- 08/2023: I accepted the invitation to serve as a reviewer for [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference).
+- 05/2023: I started a research internship in the [PRADA Lab](http://www.pradalab.org/) @[KAUST](https://www.kaust.edu.sa/), hosted by [Prof. Di Wang](https://shao3wangdi.github.io/)!
 - 03/2023: I accepted the invitation to serve as a reviewer for [NeurIPS 2023](https://openreview.net/group?id=NeurIPS.cc/2023/Conference).
 - 12/2022: I accepted the invitation to serve as a reviewer for [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference).
 - 07/2022: I accepted the invitation to serve as a reviewer for [ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference).
 - 03/2022: I accepted the invitation to serve as a reviewer for [NeurIPS 2022](https://openreview.net/group?id=NeurIPS.cc/2022/Conference).
-- 01/2022: Two papers are accepted by [ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference).
+- 01/2022: Two papers are accepted by [ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference)!
+<!--- 05/2023: I started a remote research internship in the [PRADA Lab](http://www.pradalab.org/) @[KAUST](https://www.kaust.edu.sa/), advised by Prof. [Di Wang](https://shao3wangdi.github.io/).-->
 
 
 
@@ -74,10 +79,10 @@ I am interested in using mathematical principles to identify and mitigate securi
 
 
 
-# Professional Services
+# Services
 ---
 - Conference Reviewer
-  - ICML (2022, 2023), ICLR (2022, 2023), NeurIPS (2021, 2022), AISTATS (2021)
+  - ICML (2022, 2023), ICLR (2022--2024), NeurIPS (2021--2023), AISTATS (2021)
 - Journal Reviewer
   - IEEE Transactions on Cybernetics
   - Neural Processing Letters
