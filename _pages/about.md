@@ -93,6 +93,8 @@ I am interested in using mathematical principles to identify and mitigate securi
 - International Collegiate Programming Contest (ICPC) \\
   - The ICPC Asia-East Continent Final Xi'an Site, Silver Medal, 2018
   - The ICPC Asia Regional Contest Qingdao Site, Silver Medal, 2018
-  - The ICPC Asia Regional Contest Shenyang Site, **Gold Medal ([Rank: 6/186](https://icpc.global/regionals/finder/shenyang-2018/standings))**, 2018
+  - The ICPC Asia Regional Contest Shenyang Site, **Gold Medal ([Rank: 6/186]({{ site.baseurl }}/files/icpc_sy2018_rank.pdf))**, 2018
   - The ACM-ICPC Asia Regional Contest Xi'an Site, Silver Medal, 2017
 - National Scholarship, Ministry of Education of P.R. China, 2017 & 2018
+
+<!--  - The ICPC Asia Regional Contest Shenyang Site, **Gold Medal ([Rank: 6/186](https://icpc.global/regionals/finder/shenyang-2018/standings))**, 2018-->
