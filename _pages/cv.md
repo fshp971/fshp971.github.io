@@ -34,7 +34,7 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
 - **King Abdullah University of Science and Technology**
   - Provable Responsible AI and Data Analytics (PRADA) Lab
   - Research Intern
-  - May 2023 - Jul. 2023
+  - May 2023 - Aug. 2023
 
 - **JD.com, Inc.**
   - Trustworthy AI Group @ JD Explore Academy

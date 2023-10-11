@@ -34,15 +34,16 @@ I am interested in using mathematical principles to identify and mitigate securi
 
 # News
 ---
+- 10/2023: We released our new paper **"Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach"** [[arXiv]](https://arxiv.org/abs/2310.06112).
 - 09/2023: I accepted the invitation to serve as a reviewer for [AISTATS 2024](https://aistats.org/aistats2024/).
-- 08/2023: I started my Ph.D. journey at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/)!
+- 08/2023: I started my Ph.D. journey at the [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/)!
 - 08/2023: I accepted the invitation to serve as a reviewer for [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference).
 - 05/2023: I started a research internship in the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), hosted by [Prof. Di Wang](https://shao3wangdi.github.io/)!
 - 03/2023: I accepted the invitation to serve as a reviewer for [NeurIPS 2023](https://openreview.net/group?id=NeurIPS.cc/2023/Conference).
 - 12/2022: I accepted the invitation to serve as a reviewer for [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference).
 - 07/2022: I accepted the invitation to serve as a reviewer for [ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference).
 - 03/2022: I accepted the invitation to serve as a reviewer for [NeurIPS 2022](https://openreview.net/group?id=NeurIPS.cc/2022/Conference).
-- 01/2022: Two papers are accepted by [ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference)!
+- 01/2022: Two papers were accepted by [ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference)!
 <!--- 05/2023: I started a remote research internship in the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), advised by Prof. [Di Wang](https://shao3wangdi.github.io/).-->
 
 
@@ -51,8 +52,15 @@ I am interested in using mathematical principles to identify and mitigate securi
 ---
 
 \* indicates co-first authors.
+- **Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach**
+  [[**arXiv**](https://arxiv.org/abs/2310.06112)]
+  [[**Code**](https://github.com/fshp971/adv-ntk)] \\
+  **Shaopeng Fu** and Di Wang \\
+  *arXiv preprint 2023*
+
 
 - **Robust Unlearnable Examples: Protecting Data Against Adversarial Learning**
+  [[**Link**](https://openreview.net/forum?id=baUQQPwQiAg)]
   [[**arXiv**](https://arxiv.org/abs/2203.14533)]
   [[**Video**](https://iclr.cc/virtual/2022/poster/6035)]
   [[**Code**](https://github.com/fshp971/robust-unlearnable-examples)] \\
@@ -60,6 +68,7 @@ I am interested in using mathematical principles to identify and mitigate securi
   *ICLR 2022*
 
 - **Knowledge Removal in Sampling-based Bayesian Inference**
+  [[**Link**](https://openreview.net/forum?id=dTqOcTUOQO)]
   [[**arXiv**](https://arxiv.org/abs/2203.12964)]
   [[**Video**](https://iclr.cc/virtual/2022/poster/6020)]
   [[**Code**](https://github.com/fshp971/mcmc-unlearning)] \\
@@ -67,6 +76,7 @@ I am interested in using mathematical principles to identify and mitigate securi
   *ICLR 2022*
 
 - **Artificial Neural Variability for Deep Learning: On Overfitting, Noise Memorization, and Catastrophic Forgetting**
+  [[**Link**](https://doi.org/10.1162/neco_a_01403)]
   [[**arXiv**](https://arxiv.org/abs/2011.06220)]
   [[**Code**](https://github.com/zeke-xie/artificial-neural-variability-for-deep-learning)] \\
   Zeke Xie, Fengxiang He, **Shaopeng Fu**, Issei Sato, Dacheng Tao and Masashi Sugiyama \\
