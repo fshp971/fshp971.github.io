@@ -31,6 +31,7 @@ I am interested in using mathematical principles to identify and mitigate securi
 <!--drop me an email (shaopengfu15 [at] gmail [dot] com)!**-->
 
 
+<span style="color:red"> **Pinned** </span> \\
 **PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](http://www.pradalab.org/?about_7/).**
 
 
