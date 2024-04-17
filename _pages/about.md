@@ -32,13 +32,15 @@ I am interested in using mathematical principles to identify and mitigate securi
 
 
 <span style="color:red"> **Pinned** </span> \\
-**PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](http://www.pradalab.org/?about_7/).**
+**PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](https://shao3wangdi.github.io/).**
+<!--**PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](http://www.pradalab.org/?about_7/).**-->
 
 
 
 # News
 ---
-- 01/2024: Our paper on [robust overfitting and NTK](https://openreview.net/forum?id=1op5YGZu8X) was accepted by [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
+- 04/2024: I will serve as an AEC member for [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
+- 01/2024: Our paper on [robust overfitting and NTK](https://openreview.net/forum?id=1op5YGZu8X) was accepted to [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
 - 12/2023: I accepted the invitation to serve as a reviewer for [ICML 2024](https://openreview.net/group?id=ICML.cc/2024/Conference).
 - 10/2023: We released our new paper ["Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach"](https://arxiv.org/abs/2310.06112).
 - 09/2023: I accepted the invitation to serve as a reviewer for [AISTATS 2024](https://aistats.org/aistats2024/).
@@ -46,11 +48,11 @@ I am interested in using mathematical principles to identify and mitigate securi
 - 08/2023: I accepted the invitation to serve as a reviewer for [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference).
 - 05/2023: I started a research internship at the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), hosted by [Prof. Di Wang](https://shao3wangdi.github.io/)!
 - 03/2023: I accepted the invitation to serve as a reviewer for [NeurIPS 2023](https://openreview.net/group?id=NeurIPS.cc/2023/Conference).
-- 12/2022: I accepted the invitation to serve as a reviewer for [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference).
-- 07/2022: I accepted the invitation to serve as a reviewer for [ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference).
-- 03/2022: I accepted the invitation to serve as a reviewer for [NeurIPS 2022](https://openreview.net/group?id=NeurIPS.cc/2022/Conference).
-- 01/2022: Two papers were accepted by [ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference)!
-<!--- 05/2023: I started a remote research internship in the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), advised by Prof. [Di Wang](https://shao3wangdi.github.io/).-->
+<!-- - 12/2022: I accepted the invitation to serve as a reviewer for [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference).-->
+<!-- - 07/2022: I accepted the invitation to serve as a reviewer for [ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference).-->
+<!-- - 03/2022: I accepted the invitation to serve as a reviewer for [NeurIPS 2022](https://openreview.net/group?id=NeurIPS.cc/2022/Conference).-->
+<!-- - 01/2022: Two papers were accepted to [ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference)! -->
+<!-- - 05/2023: I started a remote research internship in the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), advised by Prof. [Di Wang](https://shao3wangdi.github.io/).-->
 
 
 
@@ -99,11 +101,9 @@ I am interested in using mathematical principles to identify and mitigate securi
 
 # Services
 ---
-- Conference Reviewer
-  - ICML (2022--2024), ICLR (2022--2024), NeurIPS (2021--2023), AISTATS (2021, 2024)
-- Journal Reviewer
-  - IEEE Transactions on Cybernetics
-  - Neural Processing Letters
+- Conference Reviewer: ICML (2022--2024) / ICLR (2022--2024) / NeurIPS (2021--2023) / AISTATS (2021, 2024)
+- Conference Committee: CCS 2024 (Artifact Evaluation)
+- Journal Reviewer: IEEE Transactions on Cybernetics / Neural Processing Letters
 
 
 # Selected Awards
