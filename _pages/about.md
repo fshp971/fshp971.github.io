@@ -39,6 +39,7 @@ I am interested in using mathematical principles to identify and mitigate securi
 
 # News
 ---
+- 05/2024: I accepted the invitation to serve as a reviewer for [NeurIPS 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Conference).
 - 04/2024: I will serve as an AEC member for [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
 - 01/2024: Our paper on [robust overfitting and NTK](https://openreview.net/forum?id=1op5YGZu8X) was accepted to [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
 - 12/2023: I accepted the invitation to serve as a reviewer for [ICML 2024](https://openreview.net/group?id=ICML.cc/2024/Conference).
@@ -101,9 +102,9 @@ I am interested in using mathematical principles to identify and mitigate securi
 
 # Services
 ---
-- Conference Reviewer: ICML (2022--2024) / ICLR (2022--2024) / NeurIPS (2021--2023) / AISTATS (2021, 2024)
+- Conference Reviewer: ICML (2022, 2023, 2024) / ICLR (2022, 2023, 2024) / NeurIPS (2021, 2022, 2023, 2024) / AISTATS (2021, 2024)
 - Conference Committee: CCS 2024 (Artifact Evaluation)
-- Journal Reviewer: IEEE Transactions on Cybernetics / Neural Processing Letters
+- Journal Reviewer: IEEE TPAMI / IEEE TCYB / Springer NPL
 
 
 # Selected Awards
