@@ -18,10 +18,8 @@ I received MPhil in Computer Science from [The University of Sydney](https://www
 
 My research lies in trustworthy AI, especially the security and privacy aspects of machine learning.
 I am interested in using mathematical principles to identify and mitigate security and privacy risks in real-world machine learning systems.
-<!--adversarially robust and privacy-preserving machine learning algorithms.-->
 
-<!--Email: shaopengfu15 [at] gmail.com-->
-<!--**Contact:** [shaopengfu15@gmail.com](mailto:shaopengfu15@gmail.com)-->
+
 **Contact** \\
 [shaopeng.fu@kaust.edu.sa](mailto:shaopeng.fu@kaust.edu.sa) \\
 [shaopengfu15@gmail.com](mailto:shaopengfu15@gmail.com)
@@ -33,7 +31,6 @@ I am interested in using mathematical principles to identify and mitigate securi
 
 <span style="color:red"> **Pinned** </span> \\
 **PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](https://shao3wangdi.github.io/).**
-<!--**PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](http://www.pradalab.org/?about_7/).**-->
 
 
 
@@ -50,13 +47,12 @@ I am interested in using mathematical principles to identify and mitigate securi
 - 08/2023: I accepted the invitation to serve as a reviewer for [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference).
 - 05/2023: I started a research internship at the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), hosted by [Prof. Di Wang](https://shao3wangdi.github.io/)!
 - 03/2023: I accepted the invitation to serve as a reviewer for [NeurIPS 2023](https://openreview.net/group?id=NeurIPS.cc/2023/Conference).
-<!--
+<div style="display:none">
 - 12/2022: I accepted the invitation to serve as a reviewer for [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference).
 - 07/2022: I accepted the invitation to serve as a reviewer for [ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference).
 - 03/2022: I accepted the invitation to serve as a reviewer for [NeurIPS 2022](https://openreview.net/group?id=NeurIPS.cc/2022/Conference).
 - 01/2022: Two papers were accepted to [ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference)!
-- 05/2023: I started a remote research internship in the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), advised by Prof. [Di Wang](https://shao3wangdi.github.io/).
--->
+</div>
 
 
 
@@ -70,7 +66,6 @@ I am interested in using mathematical principles to identify and mitigate securi
   [[**Code**](https://github.com/fshp971/adv-ntk)] \\
   **Shaopeng Fu** and Di Wang \\
   *ICLR 2024*
-
 
 - **Robust Unlearnable Examples: Protecting Data Against Adversarial Learning** \\
   [[**Link**](https://openreview.net/forum?id=baUQQPwQiAg)]
