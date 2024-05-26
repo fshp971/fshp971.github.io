@@ -13,7 +13,7 @@ redirect_from:
 I am a Ph.D. student at the [Provable Responsible AI and Data Analytics (PRADA) Lab](http://www.pradalab.org/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
 
 Before that, I was an algorithm engineer at the trustworthy AI research group at JD Explore Academy, [JD.com, Inc](https://corporate.jd.com/).
-I received MPhil in Computer Science from [The University of Sydney](https://www.sydney.edu.au/), advised by [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), and B.Sc in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), advised by [Prof. Chuhua Xian](https://chuhuaxian.github.io/).
+I received MPhil in Computer Science from [The University of Sydney](https://www.sydney.edu.au/), advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ), and B.Sc in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), advised by [Prof. Chuhua Xian](https://chuhuaxian.github.io/).
 
 
 My research lies in trustworthy AI, especially the security and privacy aspects of machine learning.
@@ -39,6 +39,7 @@ I am interested in using mathematical principles to identify and mitigate securi
 
 # News
 ---
+- 05/2024: I passed my Qualifying Exam!
 - 05/2024: I accepted the invitation to serve as a reviewer for [NeurIPS 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Conference).
 - 04/2024: I will serve as an AEC member for [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
 - 01/2024: Our paper on [robust overfitting and NTK](https://openreview.net/forum?id=1op5YGZu8X) was accepted to [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
@@ -49,11 +50,13 @@ I am interested in using mathematical principles to identify and mitigate securi
 - 08/2023: I accepted the invitation to serve as a reviewer for [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference).
 - 05/2023: I started a research internship at the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), hosted by [Prof. Di Wang](https://shao3wangdi.github.io/)!
 - 03/2023: I accepted the invitation to serve as a reviewer for [NeurIPS 2023](https://openreview.net/group?id=NeurIPS.cc/2023/Conference).
-<!-- - 12/2022: I accepted the invitation to serve as a reviewer for [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference).-->
-<!-- - 07/2022: I accepted the invitation to serve as a reviewer for [ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference).-->
-<!-- - 03/2022: I accepted the invitation to serve as a reviewer for [NeurIPS 2022](https://openreview.net/group?id=NeurIPS.cc/2022/Conference).-->
-<!-- - 01/2022: Two papers were accepted to [ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference)! -->
-<!-- - 05/2023: I started a remote research internship in the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), advised by Prof. [Di Wang](https://shao3wangdi.github.io/).-->
+<!--
+- 12/2022: I accepted the invitation to serve as a reviewer for [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference).
+- 07/2022: I accepted the invitation to serve as a reviewer for [ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference).
+- 03/2022: I accepted the invitation to serve as a reviewer for [NeurIPS 2022](https://openreview.net/group?id=NeurIPS.cc/2022/Conference).
+- 01/2022: Two papers were accepted to [ICLR 2022](https://openreview.net/group?id=ICLR.cc/2022/Conference)!
+- 05/2023: I started a remote research internship in the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), advised by Prof. [Di Wang](https://shao3wangdi.github.io/).
+-->
 
 
 
