@@ -63,6 +63,7 @@ I am interested in using mathematical principles to identify and mitigate securi
 - **Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach** \\
   [[**Link**](https://openreview.net/forum?id=1op5YGZu8X)]
   [[**arXiv**](https://arxiv.org/abs/2310.06112)]
+  [[**Video**](https://iclr.cc/virtual/2024/poster/19570)]
   [[**Code**](https://github.com/fshp971/adv-ntk)] \\
   **Shaopeng Fu** and Di Wang \\
   *ICLR 2024*
