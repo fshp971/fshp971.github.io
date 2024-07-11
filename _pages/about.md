@@ -106,6 +106,11 @@ I am interested in using mathematical principles to identify and mitigate securi
 - Journal Reviewer: IEEE TPAMI / IEEE TCYB / Springer NPL
 
 
+# Teaching
+---
+- Teaching Assistant of CS 229: Machine Learning, Spring 2024, @KAUST
+
+
 # Selected Awards
 ---
 - International Collegiate Programming Contest (ICPC) \\
