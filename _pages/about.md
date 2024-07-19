@@ -36,6 +36,7 @@ I am interested in using mathematical principles to identify and mitigate securi
 
 # News
 ---
+- 07/2024: I accepted the invitation to serve as a PC member for [AAAI 2025](https://openreview.net/group?id=AAAI.org/2025/Conference).
 - 05/2024: I passed my Qualifying Exam!
 - 05/2024: I accepted the invitation to serve as a reviewer for [NeurIPS 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Conference).
 - 04/2024: I will serve as an AEC member for [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
@@ -45,9 +46,9 @@ I am interested in using mathematical principles to identify and mitigate securi
 - 09/2023: I accepted the invitation to serve as a reviewer for [AISTATS 2024](https://aistats.org/aistats2024/).
 - 08/2023: I started my Ph.D. journey at the [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/)!
 - 08/2023: I accepted the invitation to serve as a reviewer for [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference).
+<div style="display:none">
 - 05/2023: I started a research internship at the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), hosted by [Prof. Di Wang](https://shao3wangdi.github.io/)!
 - 03/2023: I accepted the invitation to serve as a reviewer for [NeurIPS 2023](https://openreview.net/group?id=NeurIPS.cc/2023/Conference).
-<div style="display:none">
 - 12/2022: I accepted the invitation to serve as a reviewer for [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference).
 - 07/2022: I accepted the invitation to serve as a reviewer for [ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference).
 - 03/2022: I accepted the invitation to serve as a reviewer for [NeurIPS 2022](https://openreview.net/group?id=NeurIPS.cc/2022/Conference).
@@ -102,13 +103,13 @@ I am interested in using mathematical principles to identify and mitigate securi
 # Services
 ---
 - Conference Reviewer: ICML (2022, 2023, 2024) / ICLR (2022, 2023, 2024) / NeurIPS (2021, 2022, 2023, 2024) / AISTATS (2021, 2024)
-- Conference Committee: CCS 2024 (Artifact Evaluation)
+- Conference Committee: CCS 2024 (Artifact Evaluation), AAAI 2025
 - Journal Reviewer: IEEE TPAMI / IEEE TCYB / Springer NPL
 
 
 # Teaching
 ---
-- Teaching Assistant of CS 229: Machine Learning, Spring 2024, @KAUST
+- Teaching Assistant of CS 229: Machine Learning, Spring 2024 @ KAUST
 
 
 # Selected Awards
