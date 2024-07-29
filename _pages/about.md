@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,6 @@ redirect_from:
 
 <!--I am currently a remote research intern in the [Provable Responsible AI and Data Analytics (PRADA) Lab](http://www.pradalab.org/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), under the supervision of Prof. [Di Wang](https://shao3wangdi.github.io/).-->
 
-# About Me
 I am a Ph.D. student at the [Provable Responsible AI and Data Analytics (PRADA) Lab](https://pradalab1.github.io/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
 
 Before that, I was an algorithm engineer at the trustworthy AI research group at JD Explore Academy, [JD.com, Inc](https://corporate.jd.com/).
@@ -64,7 +63,7 @@ Currently, I am working on:
 
 
 
-## Publications <small><span style="font-weight:normal;">[</span></small>[<small>Google Scholar</small>](https://scholar.google.com/citations?user=i7cWm4gAAAAJ)<small><span style="font-weight:normal;">]</span></small>
+## Selected Publications <small><span style="font-weight:normal;">[</span></small>[<small>Full List</small>]({{ site.baseurl }}/publications/)<small><span style="font-weight:normal;">]</span></small> <small><span style="font-weight:normal;">[</span></small>[<small>Google Scholar</small>](https://scholar.google.com/citations?user=i7cWm4gAAAAJ)<small><span style="font-weight:normal;">]</span></small>
 
 \* indicates co-first authors.
 - **Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach** \\
@@ -80,7 +79,7 @@ Currently, I am working on:
   [[**arXiv**](https://arxiv.org/abs/2203.14533)]
   [[**Video**](https://iclr.cc/virtual/2022/poster/6035)]
   [[**Code**](https://github.com/fshp971/robust-unlearnable-examples)] \\
-  **Shaopeng Fu**, Fengxiang He, Yang Liu, Li Shen and Dacheng Tao \\
+  **Shaopeng Fu**, Fengxiang He, Yang Liu, Li Shen, and Dacheng Tao \\
   *ICLR 2022*
 
 - **Knowledge Removal in Sampling-based Bayesian Inference** \\
@@ -88,21 +87,8 @@ Currently, I am working on:
   [[**arXiv**](https://arxiv.org/abs/2203.12964)]
   [[**Video**](https://iclr.cc/virtual/2022/poster/6020)]
   [[**Code**](https://github.com/fshp971/mcmc-unlearning)] \\
-  **Shaopeng Fu**\*, Fengxiang He\* and Dacheng Tao \\
+  **Shaopeng Fu**\*, Fengxiang He\*, and Dacheng Tao \\
   *ICLR 2022*
-
-- **Artificial Neural Variability for Deep Learning: On Overfitting, Noise Memorization, and Catastrophic Forgetting** \\
-  [[**Link**](https://doi.org/10.1162/neco_a_01403)]
-  [[**arXiv**](https://arxiv.org/abs/2011.06220)]
-  [[**Code**](https://github.com/zeke-xie/artificial-neural-variability-for-deep-learning)] \\
-  Zeke Xie, Fengxiang He, **Shaopeng Fu**, Issei Sato, Dacheng Tao and Masashi Sugiyama \\
-  *Neural Computation 33 (8), 2021*
-
-<!--- - **Robustness, Privacy, and Generalization of Adversarial Training** \\
-  [[**arXiv**](https://arxiv.org/abs/2012.13573)]
-  [[**Code**](https://github.com/fshp971/RPG)] \\
-  Fengxiang He\*, **Shaopeng Fu**\*, Bohan Wang\* and Dacheng Tao \\
-  *arXiv preprint 2020*--->
 
 
 
