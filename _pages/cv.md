@@ -13,7 +13,7 @@ redirect_from:
 Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
 
 
-# Education
+## Education
 ---
 - **King Abdullah University of Science and Technology**
   - Ph.D. Student in Computer Science
@@ -29,7 +29,7 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
   - Sep. 2015 - Jun. 2019
 
 
-# Experience
+## Experience
 ---
 - **King Abdullah University of Science and Technology**
   - Provable Responsible AI and Data Analytics (PRADA) Lab
@@ -46,31 +46,6 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
   - Oct. 2019 - Oct. 2020
 
 
-# Skills
+## Skills
 ---
-- C/C++, TeX, Markdown, Python, PyTorch, JAX, Linux, Arch Linux
-
-
-<!--
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
+- C/C++, Python, PyTorch, JAX, Vim, Linux, Arch Linux
