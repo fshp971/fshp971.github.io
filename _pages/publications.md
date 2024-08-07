@@ -46,6 +46,12 @@ author_profile: true
 
 ## Manuscripts
 ---
+- **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
+  [[**arXiv**](https://www.arxiv.org/abs/2408.02814)]
+  [[**code**](https://github.com/fshp971/encoder-inference)] \\
+  **Shaopeng Fu**, Xuexue Sun, Ke Qing, Tianhang Zheng, and Di Wang \\
+  *arXiv preprint 2024*
+
 - **Robustness, Privacy, and Generalization of Adversarial Training** \\
   [[**arXiv**](https://arxiv.org/abs/2012.13573)]
   [[**Code**](https://github.com/fshp971/RPG)] \\

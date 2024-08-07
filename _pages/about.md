@@ -42,6 +42,7 @@ Currently, I am working on:
 
 
 ## News
+- 08/2024: We released our new paper ["Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services"](https://www.arxiv.org/abs/2408.02814).
 - 07/2024: I accepted the invitation to serve as a PC member for [AAAI 2025](https://openreview.net/group?id=AAAI.org/2025/Conference).
 - 05/2024: I passed my Qualifying Exam!
 - 05/2024: I accepted the invitation to serve as a reviewer for [NeurIPS 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Conference).
@@ -66,6 +67,13 @@ Currently, I am working on:
 ## Selected Publications <small><span style="font-weight:normal;">[</span></small>[<small>Full List</small>]({{ site.baseurl }}/publications/)<small><span style="font-weight:normal;">]</span></small> <small><span style="font-weight:normal;">[</span></small>[<small>Google Scholar</small>](https://scholar.google.com/citations?user=i7cWm4gAAAAJ)<small><span style="font-weight:normal;">]</span></small>
 
 \* indicates co-first authors.
+
+- **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
+  [[**arXiv**](https://www.arxiv.org/abs/2408.02814)]
+  [[**code**](https://github.com/fshp971/encoder-inference)] \\
+  **Shaopeng Fu**, Xuexue Sun, Ke Qing, Tianhang Zheng, and Di Wang \\
+  *arXiv preprint 2024*
+
 - **Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach** \\
   [[**Link**](https://openreview.net/forum?id=1op5YGZu8X)]
   [[**arXiv**](https://arxiv.org/abs/2310.06112)]
