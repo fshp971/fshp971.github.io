@@ -33,7 +33,7 @@ I received MPhil in Computer Science from [The University of Sydney](https://www
 ## Research Interests
 My research lies in trustworthy AI.
 <!--especially the security and privacy aspects of machine learning.-->
-I am particularly interested in using mathematical principles to identify and mitigate security and privacy risks in real-world machine learning systems.
+I am interested in using mathematical principles to identify and mitigate security and privacy risks in real-world machine learning systems.
 Currently, I am working on:
 - Adversarial Robustness of Pre-trained Models
 - Privacy-preserving Ability of Pre-trained Models
@@ -42,6 +42,7 @@ Currently, I am working on:
 
 
 ## News
+- 08/2024: I accepted the invitation to serve as a reviewer for [ICLR 2025](https://openreview.net/group?id=ICLR.cc/2025/Conference).
 - 08/2024: We released our new paper ["Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services"](https://www.arxiv.org/abs/2408.02814).
 - 07/2024: I accepted the invitation to serve as a PC member for [AAAI 2025](https://openreview.net/group?id=AAAI.org/2025/Conference).
 - 05/2024: I passed my Qualifying Exam!
@@ -52,8 +53,8 @@ Currently, I am working on:
 - 10/2023: We released our new paper ["Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach"](https://arxiv.org/abs/2310.06112).
 - 09/2023: I accepted the invitation to serve as a reviewer for [AISTATS 2024](https://aistats.org/aistats2024/).
 - 08/2023: I started my Ph.D. journey at the [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/)!
-- 08/2023: I accepted the invitation to serve as a reviewer for [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference).
 <div style="display:none">
+- 08/2023: I accepted the invitation to serve as a reviewer for [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference).
 - 05/2023: I started a research internship at the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), hosted by [Prof. Di Wang](https://shao3wangdi.github.io/)!
 - 03/2023: I accepted the invitation to serve as a reviewer for [NeurIPS 2023](https://openreview.net/group?id=NeurIPS.cc/2023/Conference).
 - 12/2022: I accepted the invitation to serve as a reviewer for [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference).
@@ -101,7 +102,7 @@ Currently, I am working on:
 
 
 ## Services
-- Conference Reviewer: ICML (2022, 2023, 2024) / ICLR (2022, 2023, 2024) / NeurIPS (2021, 2022, 2023, 2024) / AISTATS (2021, 2024)
+- Conference Reviewer: ICML (2022, 2023, 2024) / ICLR (2022, 2023, 2024, 2025) / NeurIPS (2021, 2022, 2023, 2024) / AISTATS (2021, 2024)
 - Conference Committee: CCS 2024 (Artifact Evaluation) / AAAI 2025
 - Journal Reviewer: IEEE TPAMI / IEEE TCYB / Springer NPL
 
