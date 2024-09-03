@@ -48,7 +48,7 @@ author_profile: true
 ---
 - **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
   [[**arXiv**](https://www.arxiv.org/abs/2408.02814)]
-  [[**code**](https://github.com/fshp971/encoder-inference)] \\
+  [[**Code**](https://github.com/fshp971/encoder-inference)] \\
   **Shaopeng Fu**, Xuexue Sun, Ke Qing, Tianhang Zheng, and Di Wang \\
   *arXiv preprint 2024*
 

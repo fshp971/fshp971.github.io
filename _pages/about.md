@@ -42,6 +42,7 @@ Currently, I am working on:
 
 
 ## News
+- 09/2024: I accepted the invitation to serve as a reviewer for [AISTATS 2025](https://aistats.org/aistats2025/).
 - 08/2024: I accepted the invitation to serve as a reviewer for [ICLR 2025](https://openreview.net/group?id=ICLR.cc/2025/Conference).
 - 08/2024: We released our new paper ["Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services"](https://www.arxiv.org/abs/2408.02814).
 - 07/2024: I accepted the invitation to serve as a PC member for [AAAI 2025](https://openreview.net/group?id=AAAI.org/2025/Conference).
@@ -52,8 +53,8 @@ Currently, I am working on:
 - 12/2023: I accepted the invitation to serve as a reviewer for [ICML 2024](https://openreview.net/group?id=ICML.cc/2024/Conference).
 - 10/2023: We released our new paper ["Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach"](https://arxiv.org/abs/2310.06112).
 - 09/2023: I accepted the invitation to serve as a reviewer for [AISTATS 2024](https://aistats.org/aistats2024/).
-- 08/2023: I started my Ph.D. journey at the [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/)!
 <div style="display:none">
+- 08/2023: I started my Ph.D. journey at the [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/)!
 - 08/2023: I accepted the invitation to serve as a reviewer for [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference).
 - 05/2023: I started a research internship at the [PRADA Lab](http://www.pradalab.org/) @ [KAUST](https://www.kaust.edu.sa/), hosted by [Prof. Di Wang](https://shao3wangdi.github.io/)!
 - 03/2023: I accepted the invitation to serve as a reviewer for [NeurIPS 2023](https://openreview.net/group?id=NeurIPS.cc/2023/Conference).
@@ -71,7 +72,7 @@ Currently, I am working on:
 
 - **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
   [[**arXiv**](https://www.arxiv.org/abs/2408.02814)]
-  [[**code**](https://github.com/fshp971/encoder-inference)] \\
+  [[**Code**](https://github.com/fshp971/encoder-inference)] \\
   **Shaopeng Fu**, Xuexue Sun, Ke Qing, Tianhang Zheng, and Di Wang \\
   *arXiv preprint 2024*
 
@@ -102,7 +103,7 @@ Currently, I am working on:
 
 
 ## Services
-- Conference Reviewer: ICML (2022, 2023, 2024) / ICLR (2022, 2023, 2024, 2025) / NeurIPS (2021, 2022, 2023, 2024) / AISTATS (2021, 2024)
+- Conference Reviewer: ICML (2022, 2023, 2024) / ICLR (2022, 2023, 2024, 2025) / NeurIPS (2021, 2022, 2023, 2024) / AISTATS (2021, 2024, 2025)
 - Conference Committee: CCS 2024 (Artifact Evaluation) / AAAI 2025
 - Journal Reviewer: IEEE TPAMI / IEEE TCYB / Springer NPL
 
