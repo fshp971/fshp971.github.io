@@ -46,6 +46,12 @@ author_profile: true
 
 ## Manuscripts
 ---
+- **"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence** \\
+  [[**arXiv**](https://arxiv.org/abs/2502.04204)]
+  [[**Code**](https://github.com/fshp971/adv-icl)] \\
+  **Shaopeng Fu**, Liang Ding, and Di Wang \\
+  *arXiv preprint 2025*
+
 - **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
   [[**arXiv**](https://www.arxiv.org/abs/2408.02814)]
   [[**Code**](https://github.com/fshp971/encoder-inference)] \\

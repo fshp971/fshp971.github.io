@@ -42,6 +42,7 @@ Currently, I am working on:
 
 
 ## News
+- 02/2025: We released our new paper ["Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence"](https://arxiv.org/abs/2502.04204).
 - 12/2024: I accepted the invitation to serve as a reviewer for [ICML 2025](https://openreview.net/group?id=ICML.cc/2025/Conference).
 - 09/2024: I accepted the invitation to serve as a reviewer for [AISTATS 2025](https://aistats.org/aistats2025/).
 - 08/2024: I accepted the invitation to serve as a reviewer for [ICLR 2025](https://openreview.net/group?id=ICLR.cc/2025/Conference).
@@ -50,8 +51,8 @@ Currently, I am working on:
 - 05/2024: I passed my Qualifying Exam!
 - 05/2024: I accepted the invitation to serve as a reviewer for [NeurIPS 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Conference).
 - 04/2024: I will serve as an AEC member for [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
-- 01/2024: Our paper on [robust overfitting and NTK](https://openreview.net/forum?id=1op5YGZu8X) was accepted to [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
 <div style="display:none">
+- 01/2024: Our paper on [robust overfitting and NTK](https://openreview.net/forum?id=1op5YGZu8X) was accepted to [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
 - 12/2023: I accepted the invitation to serve as a reviewer for [ICML 2024](https://openreview.net/group?id=ICML.cc/2024/Conference).
 - 10/2023: We released our new paper ["Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach"](https://arxiv.org/abs/2310.06112).
 - 09/2023: I accepted the invitation to serve as a reviewer for [AISTATS 2024](https://aistats.org/aistats2024/).
@@ -71,8 +72,14 @@ Currently, I am working on:
 
 \* indicates co-first authors.
 
+- **"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence** \\
+  [[**arXiv**](https://arxiv.org/abs/2502.04204)]
+  [[**Code**](https://github.com/fshp971/adv-icl)] \\
+  **Shaopeng Fu**, Liang Ding, and Di Wang \\
+  *arXiv preprint 2025*
+
 - **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
-  [[**arXiv**](https://www.arxiv.org/abs/2408.02814)]
+  [[**arXiv**](https://arxiv.org/abs/2408.02814)]
   [[**Code**](https://github.com/fshp971/encoder-inference)] \\
   **Shaopeng Fu**, Xuexue Sun, Ke Qing, Tianhang Zheng, and Di Wang \\
   *arXiv preprint 2024*

@@ -31,19 +31,10 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
 
 ## Experience
 ---
-- **King Abdullah University of Science and Technology**
-  - Provable Responsible AI and Data Analytics (PRADA) Lab
-  - Research Intern
-  - May 2023 - Aug. 2023
-
 - **JD.com, Inc.**
   - Trustworthy AI Group @ JD Explore Academy
   - Algorithm Engineer (**Full-time**)
   - Mar. 2021 - Jul. 2022
-
-- **The University of Sydney**
-  - Research Assistant
-  - Oct. 2019 - Oct. 2020
 
 
 ## Skills
