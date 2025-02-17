@@ -42,6 +42,7 @@ Currently, I am working on:
 
 
 ## News
+- 02/2025: I accepted the invitation to serve as a reviewer for [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference).
 - 02/2025: We released our new paper ["Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence"](https://arxiv.org/abs/2502.04204).
 - 12/2024: I accepted the invitation to serve as a reviewer for [ICML 2025](https://openreview.net/group?id=ICML.cc/2025/Conference).
 - 09/2024: I accepted the invitation to serve as a reviewer for [AISTATS 2025](https://aistats.org/aistats2025/).
@@ -111,7 +112,7 @@ Currently, I am working on:
 
 
 ## Services
-- Conference Reviewer: ICML (2022, 2023, 2024, 2025) / ICLR (2022, 2023, 2024, 2025) / NeurIPS (2021, 2022, 2023, 2024) / AISTATS (2021, 2024, 2025)
+- Conference Reviewer: ICML (2022, 2023, 2024, 2025) / ICLR (2022, 2023, 2024, 2025) / NeurIPS (2021, 2022, 2023, 2024, 2025) / AISTATS (2021, 2024, 2025)
 - Conference Committee: CCS 2024 (Artifact Evaluation) / AAAI 2025
 - Journal Reviewer: IEEE TPAMI / IEEE TCYB / Springer NPL
 
