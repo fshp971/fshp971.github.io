@@ -17,7 +17,8 @@ author_profile: true
   [[**Video**](https://iclr.cc/virtual/2024/poster/19570)]
   [[**Code**](https://github.com/fshp971/adv-ntk)] \\
   **Shaopeng Fu** and Di Wang \\
-  *ICLR 2024*
+  *ICLR 2024* \\
+  *IEEE Transactions on Information Theory*
 
 - **Robust Unlearnable Examples: Protecting Data Against Adversarial Learning** \\
   [[**Link**](https://openreview.net/forum?id=baUQQPwQiAg)]
@@ -46,10 +47,10 @@ author_profile: true
 
 ## Manuscripts
 ---
-- **"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence** \\
+- **Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence** \\
   [[**arXiv**](https://arxiv.org/abs/2502.04204)]
   [[**Code**](https://github.com/fshp971/adv-icl)] \\
-  **Shaopeng Fu**, Liang Ding, and Di Wang \\
+  **Shaopeng Fu**, Liang Ding, Jingfeng Zhang, and Di Wang \\
   *arXiv preprint 2025*
 
 - **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\

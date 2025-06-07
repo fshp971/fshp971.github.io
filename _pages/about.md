@@ -42,6 +42,7 @@ Currently, I am working on:
 
 
 ## News
+- 05/2025: One paper was accepted to [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/document/11005570)!
 - 02/2025: I accepted the invitation to serve as a reviewer for [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference).
 - 02/2025: We released our new paper ["Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence"](https://arxiv.org/abs/2502.04204).
 - 12/2024: I accepted the invitation to serve as a reviewer for [ICML 2025](https://openreview.net/group?id=ICML.cc/2025/Conference).
@@ -73,10 +74,10 @@ Currently, I am working on:
 
 \* indicates co-first authors.
 
-- **"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence** \\
+- **Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence** \\
   [[**arXiv**](https://arxiv.org/abs/2502.04204)]
   [[**Code**](https://github.com/fshp971/adv-icl)] \\
-  **Shaopeng Fu**, Liang Ding, and Di Wang \\
+  **Shaopeng Fu**, Liang Ding, Jingfeng Zhang, and Di Wang \\
   *arXiv preprint 2025*
 
 - **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
@@ -91,7 +92,8 @@ Currently, I am working on:
   [[**Video**](https://iclr.cc/virtual/2024/poster/19570)]
   [[**Code**](https://github.com/fshp971/adv-ntk)] \\
   **Shaopeng Fu** and Di Wang \\
-  *ICLR 2024*
+  *ICLR 2024* \\
+  *IEEE Transactions on Information Theory*
 
 - **Robust Unlearnable Examples: Protecting Data Against Adversarial Learning** \\
   [[**Link**](https://openreview.net/forum?id=baUQQPwQiAg)]
