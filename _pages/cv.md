@@ -31,6 +31,11 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
 
 ## Experience
 ---
+- **Microsoft Research Asia**
+  - Research Intern @ GenAI Group, MSRA
+  - Jun. 2025 - Present
+
+---
 - **JD.com, Inc.**
   - Trustworthy AI Group @ JD Explore Academy
   - Algorithm Engineer (**Full-time**)

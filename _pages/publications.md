@@ -11,8 +11,15 @@ author_profile: true
 
 ## Conferences & Journals
 ---
+- **Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence** \\
+  [[**arXiv**](https://arxiv.org/abs/2502.04204)]
+  [[**Code**](https://github.com/fshp971/adv-icl)] \\
+  **Shaopeng Fu**, Liang Ding, Jingfeng Zhang, and Di Wang \\
+  *NeurIPS 2025*
+
 - **Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach** \\
-  [[**Link**](https://openreview.net/forum?id=1op5YGZu8X)]
+  [[**OpenReview**](https://openreview.net/forum?id=1op5YGZu8X)]
+  [[**IEEE**](https://ieeexplore.ieee.org/document/11005570)]
   [[**arXiv**](https://arxiv.org/abs/2310.06112)]
   [[**Video**](https://iclr.cc/virtual/2024/poster/19570)]
   [[**Code**](https://github.com/fshp971/adv-ntk)] \\
@@ -47,12 +54,6 @@ author_profile: true
 
 ## Manuscripts
 ---
-- **Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence** \\
-  [[**arXiv**](https://arxiv.org/abs/2502.04204)]
-  [[**Code**](https://github.com/fshp971/adv-icl)] \\
-  **Shaopeng Fu**, Liang Ding, Jingfeng Zhang, and Di Wang \\
-  *arXiv preprint 2025*
-
 - **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
   [[**arXiv**](https://arxiv.org/abs/2408.02814)]
   [[**Code**](https://github.com/fshp971/encoder-inference)] \\
