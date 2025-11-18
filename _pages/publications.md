@@ -12,7 +12,9 @@ author_profile: true
 ## Conferences & Journals
 ---
 - **Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence** \\
+  [[**Link**](https://openreview.net/forum?id=8JLpE8YnjD)]
   [[**arXiv**](https://arxiv.org/abs/2502.04204)]
+  [[**Video**](https://neurips.cc/virtual/2025/poster/119635)]
   [[**Code**](https://github.com/fshp971/adv-icl)] \\
   **Shaopeng Fu**, Liang Ding, Jingfeng Zhang, and Di Wang \\
   *NeurIPS 2025*

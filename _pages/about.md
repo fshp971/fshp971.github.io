@@ -42,7 +42,7 @@ Currently, I am working on:
 
 
 ## News
-- 09/2025: Our paper on [LLM adversarial training theory](https://arxiv.org/abs/2502.04204) was accepted to [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference)!
+- 09/2025: Our paper on [LLM adversarial training theory](https://openreview.net/forum?id=8JLpE8YnjD) was accepted to [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference)!
 - 08/2025: I accepted the invitation to serve as a reviewer for [AISTATS 2026](https://aistats.org/aistats2026/).
 - 06/2025: I started an research internship at the [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)!
 - 05/2025: One paper was accepted to [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/document/11005570)!
@@ -78,7 +78,9 @@ Currently, I am working on:
 \* indicates co-first authors.
 
 - **Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence** \\
+  [[**Link**](https://openreview.net/forum?id=8JLpE8YnjD)]
   [[**arXiv**](https://arxiv.org/abs/2502.04204)]
+  [[**Video**](https://neurips.cc/virtual/2025/poster/119635)]
   [[**Code**](https://github.com/fshp971/adv-icl)] \\
   **Shaopeng Fu**, Liang Ding, Jingfeng Zhang, and Di Wang \\
   *NeurIPS 2025*
