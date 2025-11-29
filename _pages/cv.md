@@ -16,7 +16,7 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
 ## Education
 ---
 - **King Abdullah University of Science and Technology**
-  - Ph.D. Student in Computer Science
+  - Ph.D. Candidate in Computer Science
   - Aug. 2023 - Present
 
 - **The University of Sydney**

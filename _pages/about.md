@@ -10,7 +10,7 @@ redirect_from:
 
 <!--I am currently a remote research intern in the [Provable Responsible AI and Data Analytics (PRADA) Lab](http://www.pradalab.org/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), under the supervision of Prof. [Di Wang](https://shao3wangdi.github.io/).-->
 
-I am a Ph.D. student at the [Provable Responsible AI and Data Analytics (PRADA) Lab](https://pradalab1.github.io/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
+I am a Ph.D. candidate at the [Provable Responsible AI and Data Analytics (PRADA) Lab](https://pradalab1.github.io/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
 
 Before that, I was an algorithm engineer at the trustworthy AI research group at JD Explore Academy, [JD.com, Inc](https://corporate.jd.com/).
 I received MPhil in Computer Science from [The University of Sydney](https://www.sydney.edu.au/), advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ), and B.Sc in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), advised by [Prof. Chuhua Xian](https://chuhuaxian.github.io/).
@@ -42,6 +42,7 @@ Currently, I am working on:
 
 
 ## News
+- 11/2025: I passed my Ph.D. Proposal Defense and officially became a Ph.D. candidate. Thanks to everyone who helped me during this journey!
 - 09/2025: Our paper on [LLM adversarial training theory](https://openreview.net/forum?id=8JLpE8YnjD) was accepted to [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference)!
 - 08/2025: I accepted the invitation to serve as a reviewer for [AISTATS 2026](https://aistats.org/aistats2026/).
 - 06/2025: I started an research internship at the [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)!
@@ -49,10 +50,10 @@ Currently, I am working on:
 - 02/2025: I accepted the invitation to serve as a reviewer for [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference).
 - 02/2025: We released our new paper ["Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence"](https://arxiv.org/abs/2502.04204).
 - 12/2024: I accepted the invitation to serve as a reviewer for [ICML 2025](https://openreview.net/group?id=ICML.cc/2025/Conference).
+<div style="display:none">
 - 09/2024: I accepted the invitation to serve as a reviewer for [AISTATS 2025](https://aistats.org/aistats2025/).
 - 08/2024: I accepted the invitation to serve as a reviewer for [ICLR 2025](https://openreview.net/group?id=ICLR.cc/2025/Conference).
 - 08/2024: We released our new paper ["Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services"](https://www.arxiv.org/abs/2408.02814).
-<div style="display:none">
 - 07/2024: I accepted the invitation to serve as a PC member for [AAAI 2025](https://openreview.net/group?id=AAAI.org/2025/Conference).
 - 05/2024: I passed my Qualifying Exam!
 - 05/2024: I accepted the invitation to serve as a reviewer for [NeurIPS 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Conference).

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shaopeng Fu (傅少鹏)"
 title_separator          : "-"
 name                     : &name "Shaopeng Fu"
-description              : &description "Ph.D. student @ KAUST."
+description              : &description "Ph.D. candidate @ KAUST."
 url                      : https://fshp971.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fshp971/fshp971.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shaopeng Fu"
   avatar           : "profile.png"
-  bio              : "Interested in trustworthy AI. Ph.D. student @ KAUST."
+  bio              : "Interested in trustworthy AI. Ph.D. candidate @ KAUST."
   location         : "Thuwal, Saudi Arabia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
