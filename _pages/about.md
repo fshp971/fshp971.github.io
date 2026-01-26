@@ -42,15 +42,16 @@ Currently, I am working on:
 
 
 ## News
+- 01/2026: Our paper on [LLM continuous adversarial training theory](https://openreview.net/forum?id=7zztxcmlyZ) was accepted to [ICLR 2026](https://openreview.net/group?id=ICLR.cc/2026/Conference)!
 - 11/2025: I passed my Ph.D. Proposal Defense and officially became a Ph.D. candidate. Thanks to everyone who helped me during this journey!
 - 09/2025: Our paper on [LLM adversarial training theory](https://openreview.net/forum?id=8JLpE8YnjD) was accepted to [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference)!
 - 08/2025: I accepted the invitation to serve as a reviewer for [AISTATS 2026](https://aistats.org/aistats2026/).
 - 06/2025: I started an research internship at the [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)!
 - 05/2025: One paper was accepted to [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/document/11005570)!
+<div style="display:none">
 - 02/2025: I accepted the invitation to serve as a reviewer for [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference).
 - 02/2025: We released our new paper ["Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence"](https://arxiv.org/abs/2502.04204).
 - 12/2024: I accepted the invitation to serve as a reviewer for [ICML 2025](https://openreview.net/group?id=ICML.cc/2025/Conference).
-<div style="display:none">
 - 09/2024: I accepted the invitation to serve as a reviewer for [AISTATS 2025](https://aistats.org/aistats2025/).
 - 08/2024: I accepted the invitation to serve as a reviewer for [ICLR 2025](https://openreview.net/group?id=ICLR.cc/2025/Conference).
 - 08/2024: We released our new paper ["Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services"](https://www.arxiv.org/abs/2408.02814).
@@ -77,6 +78,11 @@ Currently, I am working on:
 ## Selected Publications <small><span style="font-weight:normal;">[</span></small>[<small>Full List</small>]({{ site.baseurl }}/publications/)<small><span style="font-weight:normal;">]</span></small> <small><span style="font-weight:normal;">[</span></small>[<small>Google Scholar</small>](https://scholar.google.com/citations?user=i7cWm4gAAAAJ)<small><span style="font-weight:normal;">]</span></small>
 
 \* indicates co-first authors.
+
+- **Understanding and Improving Continuous LLM Adversarial Training via In-context Learning Theory** \\
+  [[**Link**](https://openreview.net/forum?id=7zztxcmlyZ)] \\
+  **Shaopeng Fu** and Di Wang \\
+  *ICLR 2026*
 
 - **Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence** \\
   [[**Link**](https://openreview.net/forum?id=8JLpE8YnjD)]

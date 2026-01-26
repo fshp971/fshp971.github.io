@@ -11,6 +11,11 @@ author_profile: true
 
 ## Conferences & Journals
 ---
+- **Understanding and Improving Continuous LLM Adversarial Training via In-context Learning Theory** \\
+  [[**Link**](https://openreview.net/forum?id=7zztxcmlyZ)] \\
+  **Shaopeng Fu** and Di Wang \\
+  *ICLR 2026*
+
 - **Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence** \\
   [[**Link**](https://openreview.net/forum?id=8JLpE8YnjD)]
   [[**arXiv**](https://arxiv.org/abs/2502.04204)]
