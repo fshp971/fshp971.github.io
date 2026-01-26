@@ -61,6 +61,11 @@ author_profile: true
 
 ## Manuscripts
 ---
+- **Understanding Private Learning From Feature Perspective** \\
+  [[**arXiv**](https://arxiv.org/abs/2511.18006)] \\
+  Meng Ding, Mingxi Lei, **Shaopeng Fu**, Shaowei Wang, Di Wang, and Jinhui Xu \\
+  *arXiv preprint 2025*
+
 - **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
   [[**arXiv**](https://arxiv.org/abs/2408.02814)]
   [[**Code**](https://github.com/fshp971/encoder-inference)] \\
