@@ -79,6 +79,9 @@ Currently, I am working on:
 
 \* indicates co-first authors.
 
+### Adversarial Robustness
+---
+
 - **Understanding and Improving Continuous LLM Adversarial Training via In-context Learning Theory** \\
   [[**Link**](https://openreview.net/forum?id=7zztxcmlyZ)] \\
   **Shaopeng Fu** and Di Wang \\
@@ -92,12 +95,6 @@ Currently, I am working on:
   **Shaopeng Fu**, Liang Ding, Jingfeng Zhang, and Di Wang \\
   *NeurIPS 2025*
 
-- **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
-  [[**arXiv**](https://arxiv.org/abs/2408.02814)]
-  [[**Code**](https://github.com/fshp971/encoder-inference)] \\
-  **Shaopeng Fu**, Xuexue Sun, Ke Qing, Tianhang Zheng, and Di Wang \\
-  *arXiv preprint 2024*
-
 - **Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach** \\
   [[**OpenReview**](https://openreview.net/forum?id=1op5YGZu8X)]
   [[**IEEE**](https://ieeexplore.ieee.org/document/11005570)]
@@ -107,6 +104,20 @@ Currently, I am working on:
   **Shaopeng Fu** and Di Wang \\
   *ICLR 2024* \\
   *IEEE Transactions on Information Theory*
+
+### Data/Model Privacy
+---
+
+- **Understanding Private Learning From Feature Perspective** \\
+  [[**arXiv**](https://arxiv.org/abs/2511.18006)] \\
+  Meng Ding, Mingxi Lei, **Shaopeng Fu**, Shaowei Wang, Di Wang, and Jinhui Xu \\
+  *arXiv preprint 2025*
+
+- **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
+  [[**arXiv**](https://arxiv.org/abs/2408.02814)]
+  [[**Code**](https://github.com/fshp971/encoder-inference)] \\
+  **Shaopeng Fu**, Xuexue Sun, Ke Qing, Tianhang Zheng, and Di Wang \\
+  *arXiv preprint 2024*
 
 - **Robust Unlearnable Examples: Protecting Data Against Adversarial Learning** \\
   [[**Link**](https://openreview.net/forum?id=baUQQPwQiAg)]
@@ -123,7 +134,6 @@ Currently, I am working on:
   [[**Code**](https://github.com/fshp971/mcmc-unlearning)] \\
   **Shaopeng Fu**\*, Fengxiang He\*, and Dacheng Tao \\
   *ICLR 2022*
-
 
 
 ## Services
