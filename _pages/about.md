@@ -11,8 +11,9 @@ redirect_from:
 <!--I am currently a remote research intern in the [Provable Responsible AI and Data Analytics (PRADA) Lab](http://www.pradalab.org/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), under the supervision of Prof. [Di Wang](https://shao3wangdi.github.io/).-->
 
 I am a Ph.D. candidate at the [Provable Responsible AI and Data Analytics (PRADA) Lab](https://pradalab1.github.io/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
+I am also doing a research internship at the [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working with [Dr. Xingxing Zhang](https://xingxingzhang.github.io/).
 
-Before that, I was an algorithm engineer at the trustworthy AI research group at JD Explore Academy, [JD.com, Inc](https://corporate.jd.com/).
+I was an algorithm engineer at the trustworthy AI research group at JD Explore Academy, [JD.com, Inc](https://corporate.jd.com/).
 I received MPhil in Computer Science from [The University of Sydney](https://www.sydney.edu.au/), advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ), and B.Sc in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), advised by [Prof. Chuhua Xian](https://chuhuaxian.github.io/).
 
 
@@ -32,11 +33,8 @@ I received MPhil in Computer Science from [The University of Sydney](https://www
 
 ## Research Interests
 My research lies in trustworthy AI.
-<!--especially the security and privacy aspects of machine learning.-->
 I am interested in using mathematical principles to identify and mitigate security and privacy risks in real-world machine learning systems.
-Currently, I am working on:
-- Adversarial Robustness of Pre-trained Models
-- Privacy-preserving Ability of Pre-trained Models
+More recently, I also started to work on LLM code generation.
 
 
 
