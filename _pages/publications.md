@@ -61,6 +61,17 @@ author_profile: true
 
 ## Manuscripts
 ---
+- **Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache** \\
+  [[**arXiv**](https://arxiv.org/abs/2603.13420)]
+  [[**Code**](https://github.com/626619403/PSKV)] \\
+  Xinhai Wang\*, **Shaopeng Fu**\*, Shu Yang, Liangyu Wang, Tianhang Zheng, and Di Wang \\
+  *arXiv preprint 2026*
+
+- **Understanding the Impact of Differentially Private Training on Memorization of Long-Tailed Data** \\
+  [[**arXiv**](https://arxiv.org/abs/2602.03872)] \\
+  Jiaming Zhang, Huanyi Xie, Meng Ding, **Shaopeng Fu**, Jinyan Liu, and Di Wang \\
+  *arXiv preprint 2026*
+
 - **Understanding Private Learning From Feature Perspective** \\
   [[**arXiv**](https://arxiv.org/abs/2511.18006)] \\
   Meng Ding, Mingxi Lei, **Shaopeng Fu**, Shaowei Wang, Di Wang, and Jinhui Xu \\

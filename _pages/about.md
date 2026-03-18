@@ -32,14 +32,15 @@ I received MPhil in Computer Science from [The University of Sydney](https://www
 
 
 ## Research Interests
-My research lies in trustworthy AI.
-I am interested in using mathematical principles to identify and mitigate security and privacy risks in real-world machine learning systems.
-More recently, I also started to work on LLM code generation.
 
+I develop principled methods and scalable infrastructure to enhance the capability, alignment, and reliability of LLMs.
+My research bridges **deep learning theory** and **system-level optimizations** to improve **training data efficiency** and **LLM adversarial robustness**.
+A core focus of my work is leveraging **adversarial data synthesis** to construct high-value data pipelines for advanced LLM post-training, including both **SFT and RL**.
 
 
 
 ## News
+- 03/2026: We released our new paper [Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache](https://arxiv.org/abs/2603.13420).
 - 01/2026: Our paper on [LLM continuous adversarial training theory](https://openreview.net/forum?id=7zztxcmlyZ) was accepted to [ICLR 2026](https://openreview.net/group?id=ICLR.cc/2026/Conference)!
 - 11/2025: I passed my Ph.D. Proposal Defense and officially became a Ph.D. candidate. Thanks to everyone who helped me during this journey!
 - 09/2025: Our paper on [LLM adversarial training theory](https://openreview.net/forum?id=8JLpE8YnjD) was accepted to [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference)!
@@ -72,13 +73,23 @@ More recently, I also started to work on LLM code generation.
 </div>
 
 
-
 ## Selected Publications <small><span style="font-weight:normal;">[</span></small>[<small>Full List</small>]({{ site.baseurl }}/publications/)<small><span style="font-weight:normal;">]</span></small> <small><span style="font-weight:normal;">[</span></small>[<small>Google Scholar</small>](https://scholar.google.com/citations?user=i7cWm4gAAAAJ)<small><span style="font-weight:normal;">]</span></small>
 
 \* indicates co-first authors.
 
 ### Adversarial Robustness
 ---
+
+- **Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache** \\
+  [[**arXiv**](https://arxiv.org/abs/2603.13420)]
+  [[**Code**](https://github.com/626619403/PSKV)] \\
+  Xinhai Wang\*, **Shaopeng Fu**\*, Shu Yang, Liangyu Wang, Tianhang Zheng, and Di Wang \\
+  *arXiv preprint 2026*
+
+- **Understanding the Impact of Differentially Private Training on Memorization of Long-Tailed Data** \\
+  [[**arXiv**](https://arxiv.org/abs/2602.03872)] \\
+  Jiaming Zhang, Huanyi Xie, Meng Ding, **Shaopeng Fu**, Jinyan Liu, and Di Wang \\
+  *arXiv preprint 2026*
 
 - **Understanding and Improving Continuous LLM Adversarial Training via In-context Learning Theory** \\
   [[**Link**](https://openreview.net/forum?id=7zztxcmlyZ)] \\
@@ -102,6 +113,7 @@ More recently, I also started to work on LLM code generation.
   **Shaopeng Fu** and Di Wang \\
   *ICLR 2024* \\
   *IEEE Transactions on Information Theory*
+
 
 ### Data/Model Privacy
 ---
