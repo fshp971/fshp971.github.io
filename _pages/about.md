@@ -18,21 +18,18 @@ I received MPhil in Computer Science from [The University of Sydney](https://www
 
 
 I develop principled methods and scalable infrastructure to enhance the capability and reliability of LLMs.
-My research combines **deep learning theory** with **system-level optimization** to improve model reliability and training data efficiency.
-
+My research combines **deep learning theory** with **system-level optimization** to improve model reliability and training data efficiency:
 - *LLM Post-training (for coding agent):*
-[Preprint'26](https://arxiv.org/abs/2604.00790)
-
+[Preprint'26](https://arxiv.org/abs/2604.00790).
 - *Adversarial robustness and LLM jailbreak robustness:*
 [Preprint'26](https://arxiv.org/abs/2603.13420),
 [ICLR'26](https://openreview.net/forum?id=7zztxcmlyZ),
 [NeurIPS'25](https://openreview.net/forum?id=8JLpE8YnjD),
-[ICLR'24](https://openreview.net/forum?id=1op5YGZu8X)
-
+[ICLR'24](https://openreview.net/forum?id=1op5YGZu8X).
 - *Model and data privacy:*
 [Preprint'24](https://arxiv.org/abs/2408.02814),
 [ICLR'22a](https://openreview.net/forum?id=baUQQPwQiAg),
-[ICLR'22b](https://openreview.net/forum?id=dTqOcTUOQO)
+[ICLR'22b](https://openreview.net/forum?id=dTqOcTUOQO).
 
 
 
@@ -92,13 +89,16 @@ If you are interested in collaborating with me or discussing my works, please fe
 
 \* indicates co-first authors.
 
-### Adversarial Robustness
----
+## LLM Code Generation
 
 - **RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning** \\
   [[**arXiv**](https://arxiv.org/abs/2604.00790)] \\
   **Shaopeng Fu**, Xingxing Zhang, Li Dong, Di Wang, and Furu Wei \\
   *arXiv preprint 2026*
+
+
+### Adversarial Robustness
+---
 
 - **Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache** \\
   [[**arXiv**](https://arxiv.org/abs/2603.13420)]
