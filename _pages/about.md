@@ -17,25 +17,29 @@ I was an algorithm engineer at the trustworthy AI research group at JD Explore A
 I received MPhil in Computer Science from [The University of Sydney](https://www.sydney.edu.au/), advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ), and B.Sc in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), advised by [Prof. Chuhua Xian](https://chuhuaxian.github.io/).
 
 
+**Contact** \\
+[shaopeng.fu@kaust.edu.sa](mailto:shaopeng.fu@kaust.edu.sa) \\
+[shaopengfu15@gmail.com](mailto:shaopengfu15@gmail.com)
+
+
+## Research Summary
 I develop principled methods and scalable infrastructure to enhance the capability and reliability of LLMs.
-My research combines **deep learning theory** with **system-level optimization** to improve model reliability and training data efficiency:
-- *LLM Post-training (for coding agent):*
+My research combines **deep learning theory** with **system-level optimization** to improve model reliability and training data efficiency.
+Recent topics include:
+- **LLM Post-training (for coding agent):**
 [Preprint'26](https://arxiv.org/abs/2604.00790).
-- *Adversarial robustness and LLM jailbreak robustness:*
+- **Adversarial robustness and LLM jailbreak robustness:**
 [Preprint'26](https://arxiv.org/abs/2603.13420),
 [ICLR'26](https://openreview.net/forum?id=7zztxcmlyZ),
 [NeurIPS'25](https://openreview.net/forum?id=8JLpE8YnjD),
 [ICLR'24](https://openreview.net/forum?id=1op5YGZu8X).
-- *Model and data privacy:*
+- **Model and data privacy:**
 [Preprint'24](https://arxiv.org/abs/2408.02814),
 [ICLR'22a](https://openreview.net/forum?id=baUQQPwQiAg),
 [ICLR'22b](https://openreview.net/forum?id=dTqOcTUOQO).
 
 
-
-**Contact** \\
-[shaopeng.fu@kaust.edu.sa](mailto:shaopeng.fu@kaust.edu.sa) \\
-[shaopengfu15@gmail.com](mailto:shaopengfu15@gmail.com)
+If you are interested in collaborating with me or discussing my research, please feel free to contact me through email.
 
 
 <!--~~**I am currently looking for a PhD position. If you are interested, please do not hesitate to drop me an email ([shaopengfu15@gmail.com](mailto:shaopengfu15@gmail.com))!**~~-->
@@ -45,8 +49,6 @@ My research combines **deep learning theory** with **system-level optimization**
 <!--<span style="color:red"> **Pinned** </span> \\-->
 <!--**PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](https://pradalab1.github.io/opening.html).**-->
 
-
-If you are interested in collaborating with me or discussing my works, please feel free to contact me through email.
 
 
 
@@ -89,7 +91,8 @@ If you are interested in collaborating with me or discussing my works, please fe
 
 \* indicates co-first authors.
 
-## LLM Code Generation
+### LLM Code Generation
+---
 
 - **RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning** \\
   [[**arXiv**](https://arxiv.org/abs/2604.00790)] \\
@@ -104,11 +107,6 @@ If you are interested in collaborating with me or discussing my works, please fe
   [[**arXiv**](https://arxiv.org/abs/2603.13420)]
   [[**Code**](https://github.com/626619403/PSKV)] \\
   Xinhai Wang\*, **Shaopeng Fu**\*, Shu Yang, Liangyu Wang, Tianhang Zheng, and Di Wang \\
-  *arXiv preprint 2026*
-
-- **Understanding the Impact of Differentially Private Training on Memorization of Long-Tailed Data** \\
-  [[**arXiv**](https://arxiv.org/abs/2602.03872)] \\
-  Jiaming Zhang, Huanyi Xie, Meng Ding, **Shaopeng Fu**, Jinyan Liu, and Di Wang \\
   *arXiv preprint 2026*
 
 - **Understanding and Improving Continuous LLM Adversarial Training via In-context Learning Theory** \\
@@ -138,11 +136,6 @@ If you are interested in collaborating with me or discussing my works, please fe
 ### Data/Model Privacy
 ---
 
-- **Understanding Private Learning From Feature Perspective** \\
-  [[**arXiv**](https://arxiv.org/abs/2511.18006)] \\
-  Meng Ding, Mingxi Lei, **Shaopeng Fu**, Shaowei Wang, Di Wang, and Jinhui Xu \\
-  *arXiv preprint 2025*
-
 - **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
   [[**arXiv**](https://arxiv.org/abs/2408.02814)]
   [[**Code**](https://github.com/fshp971/encoder-inference)] \\
@@ -167,21 +160,15 @@ If you are interested in collaborating with me or discussing my works, please fe
 
 
 ## Services
-- Conference Reviewer: ICML (2022, 2023, 2024, 2025) / ICLR (2022, 2023, 2024, 2025) / NeurIPS (2021, 2022, 2023, 2024, 2025) / AISTATS (2021, 2024, 2025, 2026)
+- Conference Reviewer: ICML (2022-2026) / ICLR (2022-2026) / NeurIPS (2021-2025) / AISTATS (2021, 2024-2026)
 - Conference Committee: CCS 2024 (Artifact Evaluation) / AAAI 2025
-- Journal Reviewer: IEEE TPAMI / IEEE TCYB / Springer NPL
-
-
-## Teaching
-- Teaching Assistant of CS 229: Machine Learning, Spring 2024 @ KAUST
+- Journal Reviewer: Neurocomputing / TMLR / IEEE TIT / IEEE TPAMI / IEEE TNNLS / IEEE TCYB / Springer NPL
 
 
 ## Selected Awards
 - International Collegiate Programming Contest (ICPC) \\
-  - The ICPC Asia-East Continent Final Xi'an Site, Silver Medal, 2018
-  - The ICPC Asia Regional Contest Qingdao Site, Silver Medal, 2018
-  - The ICPC Asia Regional Contest Shenyang Site, **Gold Medal ([Rank: 6/186]({{ site.baseurl }}/files/icpc_sy2018_rank.pdf))**, 2018
-  - The ACM-ICPC Asia Regional Contest Xi'an Site, Silver Medal, 2017
-- National Scholarship, Ministry of Education of P.R. China, 2017 & 2018
+  - Gold Medal: Asia Regional Contest Shenyang Site (2018; **[Rank: 6/186]({{ site.baseurl }}/files/icpc_sy2018_rank.pdf)**)
+  - Silver Medals (3x): Asia-East Continent Final Xi’an Site (2018), Asia Regional Contest Qingdao Site (2017), and Asia Regional Contest Xi’an Site (2017)
+- National Scholarship (2x): 2017 & 2018
 
 <!--  - The ICPC Asia Regional Contest Shenyang Site, **Gold Medal ([Rank: 6/186](https://icpc.global/regionals/finder/shenyang-2018/standings))**, 2018-->
