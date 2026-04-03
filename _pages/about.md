@@ -17,6 +17,24 @@ I was an algorithm engineer at the trustworthy AI research group at JD Explore A
 I received MPhil in Computer Science from [The University of Sydney](https://www.sydney.edu.au/), advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ), and B.Sc in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), advised by [Prof. Chuhua Xian](https://chuhuaxian.github.io/).
 
 
+I develop principled methods and scalable infrastructure to enhance the capability and reliability of LLMs.
+My research combines **deep learning theory** with **system-level optimization** to improve model reliability and training data efficiency.
+
+- *LLM Post-training (for coding agent):*
+[Preprint'26](https://arxiv.org/abs/2604.00790)
+
+- *Adversarial robustness and LLM jailbreak robustness:*
+[Preprint'26](https://arxiv.org/abs/2603.13420),
+[ICLR'26](https://openreview.net/forum?id=7zztxcmlyZ),
+[NeurIPS'25](https://openreview.net/forum?id=8JLpE8YnjD),
+[ICLR'24](https://openreview.net/forum?id=1op5YGZu8X)
+
+- *Model and data privacy:*
+[Preprint'24](https://arxiv.org/abs/2408.02814),
+[ICLR'22a](https://openreview.net/forum?id=baUQQPwQiAg),
+[ICLR'22b](https://openreview.net/forum?id=dTqOcTUOQO)
+
+
 
 **Contact** \\
 [shaopeng.fu@kaust.edu.sa](mailto:shaopeng.fu@kaust.edu.sa) \\
@@ -27,27 +45,24 @@ I received MPhil in Computer Science from [The University of Sydney](https://www
 <!--drop me an email (shaopengfu15 [at] gmail [dot] com)!**-->
 
 
-<span style="color:red"> **Pinned** </span> \\
-**PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](https://pradalab1.github.io/opening.html).**
+<!--<span style="color:red"> **Pinned** </span> \\-->
+<!--**PRADA Lab is looking for Postdocs/PhDs/Interns. Please checkout [this page](https://pradalab1.github.io/opening.html).**-->
 
 
-## Research Interests
-
-I develop principled methods and scalable infrastructure to enhance the capability, alignment, and reliability of LLMs.
-My research bridges **deep learning theory** and **system-level optimizations** to improve **training data efficiency** and **LLM adversarial robustness**.
-A core focus of my work is leveraging **adversarial data synthesis** to construct high-value data pipelines for advanced LLM post-training, including both **SFT and RL**.
+If you are interested in collaborating with me or discussing my works, please feel free to contact me through email.
 
 
 
 ## News
+- 04/2026: We released our new paper [RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning](https://arxiv.org/abs/2604.00790).
 - 03/2026: We released our new paper [Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache](https://arxiv.org/abs/2603.13420).
 - 01/2026: Our paper on [LLM continuous adversarial training theory](https://openreview.net/forum?id=7zztxcmlyZ) was accepted to [ICLR 2026](https://openreview.net/group?id=ICLR.cc/2026/Conference)!
 - 11/2025: I passed my Ph.D. Proposal Defense and officially became a Ph.D. candidate. Thanks to everyone who helped me during this journey!
 - 09/2025: Our paper on [LLM adversarial training theory](https://openreview.net/forum?id=8JLpE8YnjD) was accepted to [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference)!
 - 08/2025: I accepted the invitation to serve as a reviewer for [AISTATS 2026](https://aistats.org/aistats2026/).
 - 06/2025: I started an research internship at the [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)!
-- 05/2025: One paper was accepted to [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/document/11005570)!
 <div style="display:none">
+- 05/2025: One paper was accepted to [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/document/11005570)!
 - 02/2025: I accepted the invitation to serve as a reviewer for [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference).
 - 02/2025: We released our new paper ["Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence"](https://arxiv.org/abs/2502.04204).
 - 12/2024: I accepted the invitation to serve as a reviewer for [ICML 2025](https://openreview.net/group?id=ICML.cc/2025/Conference).
@@ -79,6 +94,11 @@ A core focus of my work is leveraging **adversarial data synthesis** to construc
 
 ### Adversarial Robustness
 ---
+
+- **RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning** \\
+  [[**arXiv**](https://arxiv.org/abs/2604.00790)] \\
+  **Shaopeng Fu**, Xingxing Zhang, Li Dong, Di Wang, and Furu Wei \\
+  *arXiv preprint 2026*
 
 - **Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache** \\
   [[**arXiv**](https://arxiv.org/abs/2603.13420)]

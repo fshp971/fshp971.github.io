@@ -38,7 +38,7 @@ Full CV can be found [here]({{ site.baseurl }}/files/FU_CV.pdf).
 ---
 - **JD.com, Inc.**
   - Trustworthy AI Group @ JD Explore Academy
-  - Algorithm Engineer (**Full-time**)
+  - Algorithm Engineer
   - Mar. 2021 - Jul. 2022
 
 

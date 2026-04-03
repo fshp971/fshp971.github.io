@@ -61,6 +61,11 @@ author_profile: true
 
 ## Manuscripts
 ---
+- **RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning** \\
+  [[**arXiv**](https://arxiv.org/abs/2604.00790)] \\
+  **Shaopeng Fu**, Xingxing Zhang, Li Dong, Di Wang, and Furu Wei \\
+  *arXiv preprint 2026*
+
 - **Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache** \\
   [[**arXiv**](https://arxiv.org/abs/2603.13420)]
   [[**Code**](https://github.com/626619403/PSKV)] \\
