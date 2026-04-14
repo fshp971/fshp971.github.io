@@ -28,7 +28,7 @@ My research combines **deep learning theory** with **system-level optimization**
 Recent topics include:
 - **LLM Post-training (for coding agent):**
 [Preprint'26](https://arxiv.org/abs/2604.00790).
-- **Adversarial robustness and LLM jailbreak robustness:**
+- **Adversarial robustness and LLM Jailbreak robustness:**
 [Preprint'26](https://arxiv.org/abs/2603.13420),
 [ICLR'26](https://openreview.net/forum?id=7zztxcmlyZ),
 [NeurIPS'25](https://openreview.net/forum?id=8JLpE8YnjD),
@@ -58,9 +58,9 @@ If you are interested in collaborating with me or discussing my research, please
 - 01/2026: Our paper on [LLM continuous adversarial training theory](https://openreview.net/forum?id=7zztxcmlyZ) was accepted to [ICLR 2026](https://openreview.net/group?id=ICLR.cc/2026/Conference)!
 - 11/2025: I passed my Ph.D. Proposal Defense and officially became a Ph.D. candidate. Thanks to everyone who helped me during this journey!
 - 09/2025: Our paper on [LLM adversarial training theory](https://openreview.net/forum?id=8JLpE8YnjD) was accepted to [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference)!
+<div style="display:none">
 - 08/2025: I accepted the invitation to serve as a reviewer for [AISTATS 2026](https://aistats.org/aistats2026/).
 - 06/2025: I started an research internship at the [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)!
-<div style="display:none">
 - 05/2025: One paper was accepted to [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/document/11005570)!
 - 02/2025: I accepted the invitation to serve as a reviewer for [NeurIPS 2025](https://openreview.net/group?id=NeurIPS.cc/2025/Conference).
 - 02/2025: We released our new paper ["Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence"](https://arxiv.org/abs/2502.04204).
@@ -110,7 +110,8 @@ If you are interested in collaborating with me or discussing my research, please
   *arXiv preprint 2026*
 
 - **Understanding and Improving Continuous LLM Adversarial Training via In-context Learning Theory** \\
-  [[**Link**](https://openreview.net/forum?id=7zztxcmlyZ)] \\
+  [[**Link**](https://openreview.net/forum?id=7zztxcmlyZ)]
+  [[**Code**](https://github.com/fshp971/continuous-adv-ICL)] \\
   **Shaopeng Fu** and Di Wang \\
   *ICLR 2026*
 
