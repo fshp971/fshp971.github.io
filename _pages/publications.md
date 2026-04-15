@@ -12,7 +12,8 @@ author_profile: true
 ## Conferences & Journals
 ---
 - **Understanding and Improving Continuous LLM Adversarial Training via In-context Learning Theory** \\
-  [[**Link**](https://openreview.net/forum?id=7zztxcmlyZ)] \\
+  [[**Link**](https://openreview.net/forum?id=7zztxcmlyZ)]
+  [[**arXiv**](https://arxiv.org/abs/2604.12817)]
   [[**Code**](https://github.com/fshp971/continuous-adv-ICL)] \\
   **Shaopeng Fu** and Di Wang \\
   *ICLR 2026*
