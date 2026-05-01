@@ -11,6 +11,16 @@ author_profile: true
 
 ## Conferences & Journals
 ---
+- **Benign Overfitting in Adversarial Training for Vision Transformers** \\
+  [[**arXiv**](https://arxiv.org/abs/2604.19724)] \\
+  Jiaming Zhang, Meng Ding, **Shaopeng Fu**, Jingfeng Zhang, and Di Wang \\
+  *ICML 2026*
+
+- **Understanding Private Learning From Feature Perspective** \\
+  [[**arXiv**](https://arxiv.org/abs/2511.18006)] \\
+  Meng Ding, Mingxi Lei, **Shaopeng Fu**, Shaowei Wang, Di Wang, and Jinhui Xu \\
+  *ICML 2026*
+
 - **Understanding and Improving Continuous LLM Adversarial Training via In-context Learning Theory** \\
   [[**Link**](https://openreview.net/forum?id=7zztxcmlyZ)]
   [[**arXiv**](https://arxiv.org/abs/2604.12817)]
@@ -78,11 +88,6 @@ author_profile: true
   [[**arXiv**](https://arxiv.org/abs/2602.03872)] \\
   Jiaming Zhang, Huanyi Xie, Meng Ding, **Shaopeng Fu**, Jinyan Liu, and Di Wang \\
   *arXiv preprint 2026*
-
-- **Understanding Private Learning From Feature Perspective** \\
-  [[**arXiv**](https://arxiv.org/abs/2511.18006)] \\
-  Meng Ding, Mingxi Lei, **Shaopeng Fu**, Shaowei Wang, Di Wang, and Jinhui Xu \\
-  *arXiv preprint 2025*
 
 - **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
   [[**arXiv**](https://arxiv.org/abs/2408.02814)]

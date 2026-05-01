@@ -53,6 +53,7 @@ If you are interested in collaborating with me or discussing my research, please
 
 
 ## News
+- 04/2026: Two papers on [robust overfitting](https://arxiv.org/abs/2604.19724) and [private feature learning](https://arxiv.org/abs/2511.18006) were accepted to [ICML 2026](https://openreview.net/group?id=ICML.cc/2026/Conference). Thanks to my great collaborators!
 - 04/2026: We released our new paper [RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning](https://arxiv.org/abs/2604.00790).
 - 03/2026: We released our new paper [Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache](https://arxiv.org/abs/2603.13420).
 - 01/2026: Our paper on [LLM continuous adversarial training theory](https://openreview.net/forum?id=7zztxcmlyZ) was accepted to [ICLR 2026](https://openreview.net/group?id=ICLR.cc/2026/Conference)!
