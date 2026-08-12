@@ -16,12 +16,12 @@ author_profile: true
   Jiaming Zhang, Meng Ding, **Shaopeng Fu**, Jingfeng Zhang, and Di Wang \\
   *ICML 2026*
 
-- **Understanding Private Learning From Feature Perspective** \\
+- **Understanding Private Learning from Feature Perspective** \\
   [[**arXiv**](https://arxiv.org/abs/2511.18006)] \\
   Meng Ding, Mingxi Lei, **Shaopeng Fu**, Shaowei Wang, Di Wang, and Jinhui Xu \\
   *ICML 2026*
 
-- **Understanding and Improving Continuous LLM Adversarial Training via In-context Learning Theory** \\
+- **Understanding and Improving Continuous LLM Adversarial Training via In-Context Learning Theory** \\
   [[**Link**](https://openreview.net/forum?id=7zztxcmlyZ)]
   [[**arXiv**](https://arxiv.org/abs/2604.12817)]
   [[**Code**](https://github.com/fshp971/continuous-adv-ICL)] \\
@@ -54,7 +54,7 @@ author_profile: true
   **Shaopeng Fu**, Fengxiang He, Yang Liu, Li Shen, and Dacheng Tao \\
   *ICLR 2022*
 
-- **Knowledge Removal in Sampling-based Bayesian Inference** \\
+- **Knowledge Removal in Sampling-Based Bayesian Inference** \\
   [[**Link**](https://openreview.net/forum?id=dTqOcTUOQO)]
   [[**arXiv**](https://arxiv.org/abs/2203.12964)]
   [[**Video**](https://iclr.cc/virtual/2022/poster/6020)]
@@ -78,7 +78,13 @@ author_profile: true
   **Shaopeng Fu**, Xingxing Zhang, Li Dong, Di Wang, and Furu Wei \\
   *arXiv preprint 2026*
 
-- **Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache** \\
+- **Dual-Adversarial Safety Alignment: Cultivating Intrinsic Threat Comprehension in LRMs** \\
+  [[**arXiv**](https://arxiv.org/abs/2608.09542)]
+  [[**Code**](https://github.com/renmiamu/AdvSafe)] \\
+  Hongli Shen\*, **Shaopeng Fu**\*, Qinbo Zhang, Jian Li, and Di Wang \\
+  *arXiv preprint 2026*
+
+- **Accelerating Suffix Jailbreak Attacks with Prefix-Shared KV-Cache** \\
   [[**arXiv**](https://arxiv.org/abs/2603.13420)]
   [[**Code**](https://github.com/626619403/PSKV)] \\
   Xinhai Wang\*, **Shaopeng Fu**\*, Shu Yang, Liangyu Wang, Tianhang Zheng, and Di Wang \\
@@ -89,7 +95,7 @@ author_profile: true
   Jiaming Zhang, Huanyi Xie, Meng Ding, **Shaopeng Fu**, Jinyan Liu, and Di Wang \\
   *arXiv preprint 2026*
 
-- **Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services** \\
+- **Pre-trained Encoder Inference: Revealing Upstream Encoders in Downstream Machine Learning Services** \\
   [[**arXiv**](https://arxiv.org/abs/2408.02814)]
   [[**Code**](https://github.com/fshp971/encoder-inference)] \\
   **Shaopeng Fu**, Xuexue Sun, Ke Qing, Tianhang Zheng, and Di Wang \\

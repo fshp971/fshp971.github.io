@@ -13,8 +13,8 @@ redirect_from:
 I am a Ph.D. candidate at the [Provable Responsible AI and Data Analytics (PRADA) Lab](https://pradalab1.github.io/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
 I am also doing a research internship at the [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working with [Dr. Xingxing Zhang](https://xingxingzhang.github.io/).
 
-I was an algorithm engineer at the trustworthy AI research group at JD Explore Academy, [JD.com, Inc](https://corporate.jd.com/).
-I received MPhil in Computer Science from [The University of Sydney](https://www.sydney.edu.au/), advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ), and B.Sc in Mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), advised by [Prof. Chuhua Xian](https://chuhuaxian.github.io/).
+Previously, I was an algorithm engineer in the Trustworthy AI Research Group at JD Explore Academy, [JD.com, Inc.](https://corporate.jd.com/).
+I received an MPhil in Engineering and IT from [The University of Sydney](https://www.sydney.edu.au/), advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ), and a B.Sc. in Mathematics and Applied Mathematics from the [South China University of Technology](https://www.scut.edu.cn/en/), advised by [Prof. Chuhua Xian](https://chuhuaxian.github.io/).
 
 
 **Contact** \\
@@ -23,13 +23,14 @@ I received MPhil in Computer Science from [The University of Sydney](https://www
 
 
 ## Research Summary
-I develop principled methods and scalable infrastructure to enhance the capability and reliability of LLMs.
-My research combines **deep learning theory** with **system-level optimization** to improve model reliability and training data efficiency.
+I develop principled methods and scalable infrastructure for reliable and efficient LLM post-training, adversarial robustness, scalable evaluation, and adversarial-training-inspired data synthesis.
+My research combines **deep learning theory** with **system-level optimization** to improve the training and evaluation of reasoning models.
 Recent topics include:
-- **LLM Post-training (for coding agent):**
+- **RL post-training for coding LLMs and agents:**
 [Preprint'26](https://arxiv.org/abs/2604.00790).
-- **Adversarial robustness and LLM Jailbreak robustness:**
-[Preprint'26](https://arxiv.org/abs/2603.13420),
+- **LLM adversarial training and jailbreak robustness:**
+[Preprint'26a](https://arxiv.org/abs/2608.09542),
+[Preprint'26b](https://arxiv.org/abs/2603.13420),
 [ICLR'26](https://openreview.net/forum?id=7zztxcmlyZ),
 [NeurIPS'25](https://openreview.net/forum?id=8JLpE8YnjD),
 [ICLR'24](https://openreview.net/forum?id=1op5YGZu8X).
@@ -53,6 +54,7 @@ If you are interested in collaborating with me or discussing my research, please
 
 
 ## News
+- 08/2026: We released our new paper [Dual-Adversarial Safety Alignment: Cultivating Intrinsic Threat Comprehension in LRMs](https://arxiv.org/abs/2608.09542).
 - 04/2026: Two papers on [robust overfitting](https://arxiv.org/abs/2604.19724) and [private feature learning](https://arxiv.org/abs/2511.18006) were accepted to [ICML 2026](https://openreview.net/group?id=ICML.cc/2026/Conference). Thanks to my great collaborators!
 - 04/2026: We released our new paper [RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning](https://arxiv.org/abs/2604.00790).
 - 03/2026: We released our new paper [Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache](https://arxiv.org/abs/2603.13420).
@@ -103,6 +105,12 @@ If you are interested in collaborating with me or discussing my research, please
 
 ### Adversarial Robustness
 ---
+
+- **Dual-Adversarial Safety Alignment: Cultivating Intrinsic Threat Comprehension in LRMs** \\
+  [[**arXiv**](https://arxiv.org/abs/2608.09542)]
+  [[**Code**](https://github.com/renmiamu/AdvSafe)] \\
+  Hongli Shen\*, **Shaopeng Fu**\*, Qinbo Zhang, Jian Li, and Di Wang \\
+  *arXiv preprint 2026*
 
 - **Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache** \\
   [[**arXiv**](https://arxiv.org/abs/2603.13420)]
@@ -163,7 +171,7 @@ If you are interested in collaborating with me or discussing my research, please
 
 
 ## Services
-- Conference Reviewer: ICML (2022-2026) / ICLR (2022-2026) / NeurIPS (2021-2025) / AISTATS (2021, 2024-2026)
+- Conference Reviewer: ICML (2022-2026) / ICLR (2022-2026) / NeurIPS (2021-2026) / AISTATS (2021, 2024-2026)
 - Conference Committee: CCS 2024 (Artifact Evaluation) / AAAI 2025
 - Journal Reviewer: Neurocomputing / TMLR / IEEE TIT / IEEE TPAMI / IEEE TNNLS / IEEE TCYB / Springer NPL
 
@@ -173,5 +181,6 @@ If you are interested in collaborating with me or discussing my research, please
   - Gold Medal: Asia Regional Contest Shenyang Site (2018; **[Rank: 6/186]({{ site.baseurl }}/files/icpc_sy2018_rank.pdf)**)
   - Silver Medals (3x): Asia-East Continent Final Xi’an Site (2018), Asia Regional Contest Qingdao Site (2017), and Asia Regional Contest Xi’an Site (2017)
 - National Scholarship (2x): 2017 & 2018
+- ICML Silver Reviewer: 2026
 
 <!--  - The ICPC Asia Regional Contest Shenyang Site, **Gold Medal ([Rank: 6/186](https://icpc.global/regionals/finder/shenyang-2018/standings))**, 2018-->
