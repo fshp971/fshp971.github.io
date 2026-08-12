@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<p style="color:#8B0000;"><strong>Expected Graduation: June 2027. Open to full-time Research Scientist / Research Engineer / Member of Technical Staff roles. \\ Please feel free to contact me at <a href="mailto:shaopeng.fu@kaust.edu.sa" style="color:#8B0000;"></a> to discuss potential opportunities.</strong></p>
+<p style="color:#8B0000;"><strong>Expected Graduation: June 2027. Open to full-time Research Scientist / Research Engineer / Member of Technical Staff roles.</strong></p>
+<p style="color:#8B0000;"><strong>Please feel free to contact me at <a href="mailto:shaopeng.fu@kaust.edu.sa" style="color:#8B0000;"></a> to discuss potential opportunities.</strong></p>
 
 I am a Ph.D. candidate at the [Provable Responsible AI and Data Analytics (PRADA) Lab](https://pradalab1.github.io/) at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
 I am also doing a research internship at the [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working with [Dr. Xingxing Zhang](https://xingxingzhang.github.io/).
